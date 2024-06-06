@@ -28,22 +28,4 @@ HTML5,CSS3, JavaScript, React, Flexbox Layout, React Router v6, Material UI, Nod
 
 ---
 
-## Team
-
-UI/UX:
-
-[Mercedes Girmanova](https://www.linkedin.com/in/mercedes-girmanova/)
-
-Frontend Development:
-
-[Oxana Danilova](https://www.linkedin.com/in/oxana-danilova-b082a0156/)
-
-[Luay Abbas](https://www.linkedin.com/in/luay-abbas-79531a24a/)
-
-Backend Development:
-
-[Joachim Ritter](https://www.linkedin.com/in/joachimr/)
-
----
-
 Made with ❤️
